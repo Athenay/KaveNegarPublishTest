@@ -1,0 +1,11 @@
+framework module KavenegarCall {
+  umbrella header "KavenegarCall.h"
+
+  export *
+  module * { export * }
+}
+
+module KavenegarCall.Swift {
+    header "KavenegarCall-Swift.h"
+    requires objc
+}
