@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Kavenegar"
-  s.version      = "1.4"
+  s.version      = "1.5"
   s.summary      = "Kavenegar Cell SDK for iOS"
   s.description  = <<-DESC
     Here is the description.
